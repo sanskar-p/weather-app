@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.18d5407f.chunk.css",
+    "main.js": "/weather-app/static/js/main.e8659368.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.e8659368.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.86026769.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.86026769.js.map",
+    "static/js/2.3ad34c98.chunk.js": "/weather-app/static/js/2.3ad34c98.chunk.js",
+    "static/js/2.3ad34c98.chunk.js.map": "/weather-app/static/js/2.3ad34c98.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.91ac708091bde3639c6c0c78afad81d8.js": "/weather-app/precache-manifest.91ac708091bde3639c6c0c78afad81d8.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/main.18d5407f.chunk.css.map": "/weather-app/static/css/main.18d5407f.chunk.css.map",
+    "static/js/2.3ad34c98.chunk.js.LICENSE.txt": "/weather-app/static/js/2.3ad34c98.chunk.js.LICENSE.txt",
+    "static/media/01d.png": "/weather-app/static/media/01d.6a7e0a95.png",
+    "static/media/01n.png": "/weather-app/static/media/01n.6a7e0a95.png",
+    "static/media/02d.png": "/weather-app/static/media/02d.e319ce9d.png",
+    "static/media/02n.png": "/weather-app/static/media/02n.f7875e6d.png",
+    "static/media/03d.png": "/weather-app/static/media/03d.44abda31.png",
+    "static/media/03n.png": "/weather-app/static/media/03n.44abda31.png",
+    "static/media/04d.png": "/weather-app/static/media/04d.44abda31.png",
+    "static/media/04n.png": "/weather-app/static/media/04n.44abda31.png",
+    "static/media/09d.png": "/weather-app/static/media/09d.4f901cef.png",
+    "static/media/09n.png": "/weather-app/static/media/09n.b653e02c.png",
+    "static/media/10d.png": "/weather-app/static/media/10d.0f4563c4.png",
+    "static/media/10n.png": "/weather-app/static/media/10n.a219c114.png",
+    "static/media/11d.png": "/weather-app/static/media/11d.ab7f182d.png",
+    "static/media/11n.png": "/weather-app/static/media/11n.7f5620a9.png",
+    "static/media/13d.png": "/weather-app/static/media/13d.130054bb.png",
+    "static/media/13n.png": "/weather-app/static/media/13n.20b66d74.png",
+    "static/media/50d.png": "/weather-app/static/media/50d.57d6fd78.png",
+    "static/media/50n.png": "/weather-app/static/media/50n.5dd9d3b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86026769.js",
+    "static/js/2.3ad34c98.chunk.js",
+    "static/css/main.18d5407f.chunk.css",
+    "static/js/main.e8659368.chunk.js"
+  ]
+}
