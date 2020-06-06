@@ -1,0 +1,42 @@
+.modalBtn, .modalBtn:focus{
+	padding: 0px;
+	background-color: transparent;
+	border: none;
+	width: 162px;
+	margin: 5px;
+	transition: all .3s ease-in-out;
+}
+.modalBtn:hover{
+	transform: scale(1.03);
+	border-radius: 5px;
+}
+
+.modal-content{
+	width: 30vw;
+	background-color: rgba(50,50,50, 1);
+	left: 25%;
+	color: white;
+}
+
+.btn{
+	background-color: transparent;
+	border: none;
+}
+
+.acard{
+	width: 50px;
+	height: 15rem;
+	max-height: 260px;
+	display:flex; 
+	align-items: center;
+	text-align: center;
+	padding: 10px 80px 10px 80px;
+	background-color: rgba(50,50,50, 0.8);
+	color: white;
+	margin-right: 10px;
+	line-height: 20px;
+}
+
+.card-body{
+	width: 10rem;
+}
